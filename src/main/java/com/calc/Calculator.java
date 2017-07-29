@@ -11,6 +11,6 @@ public class Calculator {
 
     public double multi(int a, int b){
 
-        return (a*b);
+        return (a * b);
     }
 }
